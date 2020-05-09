@@ -45,6 +45,11 @@ Text: dataset/mosi/raw/text_2way.pickle <br>
 Video: dataset/mosi/raw/video_2way.pickle <br>
 
 
+##模型效果
+
+![模型运行结果](./result.png)
+
+
 ## Citation 
 ```
 @inproceedings{soujanyaacl17,
